@@ -1,5 +1,6 @@
 package com.qa.test;
 
+import org.testng.annotations.Test;
 import java.io.FileInputStream;
 import java.io.InputStream;
 import java.util.Properties;
